@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: g-az400-eshoponweb-mslearn
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: 264a4293-ece1-49d1-9fde-ff7d58b77d6b
+  SUBSCRIPTION-ID: placeholder
   WEBAPP-NAME: az400-webapp-mslearn
 
 
